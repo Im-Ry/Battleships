@@ -1,0 +1,24 @@
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.deps.json
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.json
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.dev.json
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.dll
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.pdb
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csprojAssemblyReference.cache
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csproj.CoreCompileInputs.cache
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfoInputs.cache
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfo.cs
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.dll
+\\svr-pfs-02\16CheshiR$\My Documents\Year12\VB\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.pdb
+C:\Users\Ryan\Desktop\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.deps.json
+C:\Users\Ryan\Desktop\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.json
+C:\Users\Ryan\Desktop\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.dll
+C:\Users\Ryan\Desktop\Battleships\Battleships\bin\Debug\netcoreapp2.1\Battleships.pdb
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.dll
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.pdb
+C:\Users\Ryan\Desktop\Battleships\Battleships\obj\Debug\netcoreapp2.1\Battleships.genruntimeconfig.cache
